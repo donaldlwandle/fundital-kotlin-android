@@ -49,6 +49,10 @@ android {
 
 dependencies {
 
+    implementation 'junit:junit:4.12'
+    implementation 'junit:junit:4.12'
+    implementation 'junit:junit:4.12'
+    implementation 'androidx.test.espresso:espresso-idling-resource:3.5.1'
     def app_compat = "1.6.0"
     implementation "androidx.appcompat:appcompat:$app_compat"
 
